@@ -31,8 +31,8 @@ deps = {
   "third_party/externals/spirv-cross"     : "https://github.com/QtSkia/SPIRV-Cross@53ab2144b90abede33be5161aec5dfc94ddc3caf",
   "third_party/externals/spirv-headers"   : "https://github.com/QtSkia/SPIRV-Headers.git@29c11140baaf9f7fdaa39a583672c556bf1795a1",
   "third_party/externals/spirv-tools"     : "https://github.com/QtSkia/SPIRV-Tools.git@0c4feb643b89d1792b02f7cbef315e9d95633bd7",
-  "third_party/externals/swiftshader"     : "https://github.com/QtSkia/SwiftShader@3",
-  #"third_party/externals/v8"              : "https://github.com/QtSkia/v8.git@2",
+  "third_party/externals/swiftshader"     : "https://github.com/QtSkia/SwiftShader@10a900e5ffaffdffe2806b1507af43a74acdfe9e",
+  #"third_party/externals/v8"              : "https://github.com/QtSkia/v8.git@5f1ae66d5634e43563b2d25ea652dfb94c31a3b4",
   "third_party/externals/wuffs"           : "https://github.com/QtSkia/wuffs.git@4080840928c0b05a80cda0d14ac2e2615f679f1a",
   "third_party/externals/zlib"            : "https://github.com/QtSkia/zlib@47af7c547f8551bd25424e56354a2ae1e9062859",
 
