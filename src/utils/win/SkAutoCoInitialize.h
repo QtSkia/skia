@@ -15,14 +15,6 @@
 #include "include/private/SkNoncopyable.h"
 #include "src/core/SkLeanWindows.h"
 
-#pragma comment(lib, "FontSub.lib")
-#pragma comment(lib, "Ole32.lib")
-#pragma comment(lib, "OleAut32.lib")
-#pragma comment(lib, "User32.lib")
-#pragma comment(lib, "Usp10.lib")
-#pragma comment(lib, "OpenGL32.lib")
-#pragma comment(lib, "Advapi32.lib")
-#pragma comment(lib, "Gdi32.lib")
 /**
  * An instance of this class initializes COM on creation
  * and closes the COM library on destruction.
